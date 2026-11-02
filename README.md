@@ -56,4 +56,8 @@ PORTOFOLIO DEVELOPMENT:
 
 This portfolio is continuously being developed as I build practical skills in AI response evaluation, healthcare data annotation, and quality assessment.
 
-                            Thank you for visiting my portfolio.
+                           Additional Portfolio Project
+HEALTHCARE DATA ANNOTATION.
+A practical project demonstrating healthcare text classification, annotation guidelines, and quality review.
+
+[View Healthcare Data Annotation Project](https://github.com/mygreenere-bit/health-care-data-annotation.git )
