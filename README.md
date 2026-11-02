@@ -22,7 +22,7 @@ PORTOFOLIO PROJECTS:
  1. Healthcare AI response evaluation.
        Practice evaluating AI-generated healthcare responses based on accuracy,completeness,clarity,safety,and evidence quality
 
- 2 Health care data annotation.
+  2 Health care data annotation.
  Practice classifying and labeling healthcare related text using cleary defined annotation ruidelines.
 
 
