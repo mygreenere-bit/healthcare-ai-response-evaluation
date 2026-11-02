@@ -1,6 +1,6 @@
 
  Healthcare AI Response Evaluation Portfolio
-Orthopaedic Technology | Healthcare Knowledge | AI Response Evaluation | Data Annotation**
+Orthopaedic Technology | Healthcare Knowledge | AI Response Evaluation | Data Annotation
 
 
 Welcome to my Healthcare AI Response Evaluation Portfolio.
